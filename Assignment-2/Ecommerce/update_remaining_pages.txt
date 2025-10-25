@@ -1,0 +1,1 @@
+Updating Profile, Orders, ProductDetail, and Checkout pages

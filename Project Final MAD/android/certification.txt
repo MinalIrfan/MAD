@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Expense Tracker 1.0
+---------------------------------------------------
+
+app_name - 						Expense Tracker
+app_alias - 					expensetracker
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Punjab
+app_author_country - 			Pakistan
+app_password - 					V0tHC5zdhwLS
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Sunday 21st of December 2025 12:10:40 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
